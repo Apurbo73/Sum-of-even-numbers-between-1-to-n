@@ -72,11 +72,3 @@ Even Numbers are :2 4 6 8 10
 Some Of The Even Numbers is :30
 ```
 
-Would you like a [cleaner version](f) or one that also [prints odd numbers](f)?
-
-    cout << endl;
-
-    cout << "Some Of The Even Numbers is :";
-
-    cout << b << endl;
-}
